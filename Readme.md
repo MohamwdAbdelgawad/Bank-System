@@ -25,5 +25,5 @@ Simple desktop banking application implemented with C++/CLI and Windows Forms. P
 
 ## Usage
 - Launch app, authenticate via the login form.
-- Use the admin (username = admin, password = 123) UI to add users, view all users, search by ID, deposit, withdraw, and transfer between accounts.
+- Use the admin (username = admin, password = 123) UI to add users, view all users, search by ID and show transactions for a user
 
