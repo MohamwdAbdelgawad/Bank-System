@@ -93,9 +93,9 @@ namespace BankSystem {
 			// 
 			this->textBox2->Location = System::Drawing::Point(456, 318);
 			this->textBox2->Name = L"textBox2";
-			this->textBox2->PasswordChar = '*';
 			this->textBox2->Size = System::Drawing::Size(252, 36);
 			this->textBox2->TabIndex = 4;
+			this->textBox2->UseSystemPasswordChar = true;
 			// 
 			// label3
 			// 
