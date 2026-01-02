@@ -1,0 +1,44 @@
+database.txt
+
+# ========================
+# Visual Studio
+# ========================
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ========================
+# Build folders
+# ========================
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+
+# CMake (لو استخدمته)
+cmake-build-*/
+
+# ========================
+# Visual C++ temporary files
+# ========================
+*.ilk
+*.ipch
+*.pdb
+*.iobj
+*.ipdb
+*.tlog
+*.log
+*.lastbuildstate
+
+# ========================
+# Executables
+# ========================
+*.exe
+*.dll
